@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "574.C": "cpp",
+        "cmath": "cpp",
+        "cstdio": "cpp",
+        "typeinfo": "cpp",
+        "cstdlib": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
